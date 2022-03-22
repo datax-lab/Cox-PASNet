@@ -4,7 +4,7 @@
 ## Example Datasets
 To get started, you need to download example datasets from URLs as below:
 
-[Train data](http://dataxlab.org/dataxlab.org/public_html/Cox-PASNet/Cox_PASNet/train.csv) 
+[Train data](http://dataxlab.org/Cox_PASNet/train.csv) 
 
 [Validation data](http://dataxlab.org/Cox_PASNet/validation.csv)
 
