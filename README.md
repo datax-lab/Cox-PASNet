@@ -6,7 +6,7 @@ To get started, you need to download example datasets from URLs as below:
 
 
 
-<p><a href = "http://dataxlab.org/Cox-PASNet/train.csv" download="train.csv" target="_blank">Train data</a></p>
+<p><a href = "http://dataxlab.org/Cox-PASNet/train.csv" download="train.csv">Train data</a></p>
 
 <p><a href = "http://dataxlab.org/Cox-PASNet/validation.csv" download target="_blank" >validation data</a></p>
 <p><a href = "http://dataxlab.org/Cox-PASNet/test.csv" download >Test data</a></p>
