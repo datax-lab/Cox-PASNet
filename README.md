@@ -3,7 +3,7 @@
 # Get Started
 ## Example Datasets
 To get started, you need to download example datasets from URLs as below:
-<p class="block"><a href = "ttp://dataxlab.org/Cox-PASNet/train.csv"  target="_new">< Train data></a></p>
+<a href = "htttp://dataxlab.org/Cox-PASNet/train.csv"  target="_new">< Train data></a>
 
         
 
